@@ -211,6 +211,7 @@ host-suffix,sndcdn.com,proxy
 host-suffix,sony.com,proxy
 host-suffix,soundcloud.com,proxy
 host-suffix,sourceforge.net,proxy
+host-suffix,speedtest.net,direct
 host-suffix,spotify.com,proxy
 host-suffix,squarespace.com,proxy
 host-suffix,sstatic.net,proxy
