@@ -199,6 +199,8 @@ host-suffix,playstation.net,proxy
 host-suffix,playstationnetwork.com,proxy
 host-suffix,pushwoosh.com,proxy
 host-suffix,rime.im,proxy
+host-keyword,reddit,proxy
+host-suffix,redd.it,proxy
 host-suffix,servebom.com,proxy
 host-suffix,sfx.ms,proxy
 host-suffix,shadowsocks.org,proxy
