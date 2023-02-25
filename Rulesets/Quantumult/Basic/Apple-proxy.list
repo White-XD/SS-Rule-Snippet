@@ -4,5 +4,4 @@ user-agent,com.apple.trustd*,proxy
 host-suffix,apple-dns.net,proxy
 host,testflight.apple.com,proxy
 host,sandbox.itunes.apple.com,proxy
-host-suffix,apps.apple.com,proxy
 host-suffix,blobstore.apple.com,proxy
