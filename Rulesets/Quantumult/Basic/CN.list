@@ -62,15 +62,10 @@ host-suffix,meituan.com,direct
 host-suffix,meituan.net,direct
 host-suffix,mi.com,direct
 host-suffix,miaopai.com,direct
-host-suffix,microsoft.com,direct
-host-suffix,microsoftonline.com,direct
 host-suffix,miui.com,direct
 host-suffix,miwifi.com,direct
 host-suffix,mob.com,direct
 host-suffix,netease.com,direct
-host-suffix,office.com,direct
-host-keyword,officecdn,direct
-host-suffix,office365.com,direct
 host-suffix,oschina.net,direct
 host-suffix,ppsimg.com,direct
 host-suffix,pstatp.com,direct
