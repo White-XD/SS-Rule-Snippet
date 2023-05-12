@@ -61,6 +61,7 @@ host-suffix,cloudfront.net,proxy
 host-suffix,cloudmagic.com,proxy
 host-suffix,cmail19.com,proxy
 host-suffix,cnet.com,proxy
+host-suffix,cnn.com,proxy
 host-suffix,cocoapods.org,proxy
 host-suffix,comodoca.com,proxy
 host-suffix,crashlytics.com,proxy
